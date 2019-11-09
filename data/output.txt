@@ -1,0 +1,153 @@
+
+
+Clients\n*******************************************************************
+Client: James Bond (CardNo.: 9367757567130528, Pin:4344) (JBX09)
+
+  Tel: 1-876-987-5583    DOB: Jul 08, 1950    TRN: 160462168
+  Accounts:
+  Savings              No. 1740508:        $     15,984,789.74
+  Chequing             No. 3711933:        $      7,568,445.74
+  Chequing             No. 2545755:        $        465,966.74
+  Investment           No. 6662362:        $      7,897,896.74
+  Direct Banking       No. 2867690:        $      6,456,446.74
+  Address:
+    Main St., Oracabessa, St. Mary
+    Shop 9 96 Waltham Pk Rd, Kingston 11, Kingston and St. Andrew
+--------------------------------------------------------------------
+Client: Sherlock Holmes (CardNo.: 4769261931403723, Pin:2294) (SHW34)
+
+  Tel: 1-876-759-4441    DOB: Sep 13, 1944    TRN: 157801055
+  Accounts:
+  Investment           No. 7302839:        $      6,489,546.00
+  Address:
+    Brigade St. Santa Cruz, St. Elizabeth
+--------------------------------------------------------------------
+Client: Thomas Hardy (CardNo.: 6789678753016680, Pin:8693) (THW03)
+
+  Tel: 1-876-345-9703    DOB: Jun 17, 1981    TRN: 134493475
+  Accounts:
+  Investment           No. 1895160:        $          6,548.40
+  Address:
+    Brigade St. Santa Cruz, St. Elizabeth
+--------------------------------------------------------------------
+Client: Nancy Drew (CardNo.: 9964357756405606, Pin:4380) (NDW58)
+
+  Tel: 1-876-859-8089    DOB: May 24, 1966    TRN: 168023279
+  Accounts:
+  Investment           No. 6512344:        $         48,827.50
+  Address:
+    12 High St., Black River, St. Elizabeth
+--------------------------------------------------------------------
+Client: Jessica Jones (CardNo.: 1112047366710373, Pin:2073) (JJX12)
+
+  Tel: 1-876-893-5197    DOB: Jul 16, 1988    TRN: 152260067
+  Accounts:
+  Direct Banking       No. 8979727:        $         85,169.08
+  Address:
+    15 Old Hope Road, Kgn 5, Kingston and St. Andrew
+--------------------------------------------------------------------
+Client: Jason Bourne (CardNo.: 3303717646059727, Pin:9040) (JBC85)
+
+  Tel: 1-876-424-4743    DOB: Aug 28, 1950    TRN: 160892736
+  Accounts:
+  Direct Banking       No. 1413178:        $            416.00
+  Address:
+    9 Fearon Ave, May Pen, Clarendon
+--------------------------------------------------------------------
+Client: Harvey Dent (CardNo.: 6714900015065457, Pin:3974) (HDW05)
+
+  Tel: 1-876-484-6108    DOB: Feb 14, 1964    TRN: 122924169
+  Accounts:
+  Savings              No. 8343591:        $      4,658,416.00
+  Address:
+    144 Barnett St., Montego Bay, St. James
+--------------------------------------------------------------------
+Client: Phil Coulson (CardNo.: 4898920249638428, Pin:8505) (PCW44)
+
+  Tel: 1-876-598-2378    DOB: Mar 29, 1994    TRN: 113884171
+  Accounts:
+  Savings              No. 8198249:        $      7,436,546.00
+  Direct Banking       No. 8619173:        $      4,536,546.00
+  Address:
+    Propsper Rd., Lucea, Hanover
+    93 East St Kingston, Kingston and St. Andrew
+--------------------------------------------------------------------
+
+Client: Shenzen Telecoms Caribbean Ltd. t/a Huwawei Jamaica (HWA12)
+  Tel: 1-876-633-1859    TRN: 011273589
+       1-876-631-5587
+  Accounts:
+  Chequing             No. 1631049:        $    145,689,214.35
+  Address:
+    14 Constant Sprint Road, Kgn 10, Kingston and St. Andrew
+  Signatories:
+    Signer: Jason Bourne       (CardNo.: 3303717646059727, Pin:9040)
+       Tel: 1-876-424-4743     Address: 9 Fearon Ave, May Pen, Clarendon
+    Signer: Nancy Drew         (CardNo.: 9964357756405606, Pin:4380)
+       Tel: 1-876-859-8089     Address: 12 High St., Black River, St. Elizabeth
+    Signer: Sherlock Holmes    (CardNo.: 4769261931403723, Pin:2294)
+       Tel: 1-876-759-4441     Address: Brigade St. Santa Cruz, St. Elizabeth 
+--------------------------------------------------------------------
+
+Client: Mossel Jamaica Ltd. t/a Digicel (DIG01)
+  Tel: 1-876-633-1000    TRN: 055290118
+       1-876-631-5000
+  Accounts:
+  Investment           No. 6603538:        $  3,245,455,249.75
+  Chequing             No. 2733700:        $    958,655,579.75
+  Chequing             No. 9482224:        $      5,464,639.75
+  Address:
+    15 Ocean Boulevard, Kingston, Kingston and St. Andrew
+  Signatories:
+    Signer: Harvey Dent        (CardNo.: 6714900015065457, Pin:3974)
+       Tel: 1-876-484-6108     Address: 144 Barnett St., Montego Bay, St. James
+    Signer: James Bond         (CardNo.: 9367757567130528, Pin:4344)
+       Tel: 1-876-987-5583     Address: Main St., Oracabessa, St. Mary
+    Signer: Jessica Jones      (CardNo.: 1112047366710373, Pin:2073)
+       Tel: 1-876-893-5197     Address: 15 Old Hope Road, Kgn 5, Kingston and St. Andrew 
+--------------------------------------------------------------------
+
+Client: Western Photo Ltd. t/a Western Photo Ltd. (WUU88)
+  Tel: 1-876-945-6688    TRN: 043802806
+       1-876-945-6689
+  Accounts:
+  Chequing             No. 8567648:        $      2,586,492.09
+  Address:
+    8 Main Street, Savannah-la-mar, Westmoreland
+  Signatories:
+    Signer: Thomas Hardy       (CardNo.: 6789678753016680, Pin:8693)
+       Tel: 1-876-345-9703     Address: Brigade St. Santa Cruz, St. Elizabeth
+    Signer: Phil Coulson       (CardNo.: 4898920249638428, Pin:8505)
+       Tel: 1-876-598-2378     Address: Propsper Rd., Lucea, Hanover
+    Signer: Sherlock Holmes    (CardNo.: 4769261931403723, Pin:2294)
+       Tel: 1-876-759-4441     Address: Brigade St. Santa Cruz, St. Elizabeth 
+--------------------------------------------------------------------
+
+Client: Sharkie's Seafood Restaurant t/a Sharkie's Seafood Restaurant (SHA47)
+  Tel: 1-876-954-8469    TRN: 097398379
+       
+  Accounts:
+  Chequing             No. 8834542:        $     14,340,048.93
+  Address:
+    Howard Cook Boulevard, Montego Bay, St. James
+  Signatories:
+    Signer: James Bond         (CardNo.: 9367757567130528, Pin:4344)
+       Tel: 1-876-987-5583     Address: Main St., Oracabessa, St. Mary
+    Signer: Jessica Jones      (CardNo.: 1112047366710373, Pin:2073)
+       Tel: 1-876-893-5197     Address: 15 Old Hope Road, Kgn 5, Kingston and St. Andrew 
+--------------------------------------------------------------------
+
+Client: Emily Ramson t/a Sassy Super Salon (KPK24)
+  Tel: 1-876-355-3534    TRN: 036843969
+       
+  Accounts:
+  Chequing             No. 6234073:        $        486,975.00
+  Chequing             No. 7854551:        $     64,566,545.00
+  Address:
+    Chudleigh District, Christiana, Manchester
+    Bromley Ave, Kingston 20, Kingston and St. Andrew
+  Signatories:
+    Signer: Sherlock Holmes    (CardNo.: 4769261931403723, Pin:2294)
+       Tel: 1-876-759-4441     Address: Brigade St. Santa Cruz, St. Elizabeth 
+--------------------------------------------------------------------
+The total sum under management is 4,498,880,305.30

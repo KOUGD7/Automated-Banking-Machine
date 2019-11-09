@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SimpleData
+comment1.params=filepath\ delimiter
+comment1.target=java.util.ArrayList\ ReadCSV(java.lang.String,\ java.lang.String)
+comment2.params=filepath
+comment2.target=java.util.ArrayList\ ReadCSV(java.lang.String)
+comment3.params=filepath\ data\ delimiter
+comment3.target=boolean\ writeCSV(java.lang.String,\ java.util.ArrayList,\ java.lang.String)
+comment4.params=filepath\ data
+comment4.target=boolean\ writeCSV(java.lang.String,\ java.util.ArrayList)
+numComments=5

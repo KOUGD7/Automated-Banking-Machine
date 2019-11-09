@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=street\ p
+comment1.target=Address(java.lang.String,\ Parish)
+comment2.params=street\ p
+comment2.target=Address(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getAddress()
+comment4.params=
+comment4.target=java.lang.String\ getAddressOnly()
+comment5.params=
+comment5.target=Parish\ getParish()
+comment6.params=
+comment6.target=java.lang.String\ getParishString()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ABM
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ABM\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=ABM()
+comment3.params=
+comment3.target=void\ readdata()
+comment4.params=
+comment4.target=void\ writedata()
+comment5.params=
+comment5.target=void\ createObjects()
+comment6.params=acnum\ pin
+comment6.target=src.accbackend.Client\ uiAuth(java.lang.String,\ int)
+numComments=7

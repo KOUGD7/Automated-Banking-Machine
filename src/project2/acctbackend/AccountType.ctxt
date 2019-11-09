@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AccountType
+comment1.params=name\ rate
+comment1.target=AccountType(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ longName()
+comment3.params=
+comment3.target=double\ interestRate()
+numComments=4

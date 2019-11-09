@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ABMUi
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ABMUi\ here.\r\n\r\n\ @author\ (Rhon-Kaniel\ Bramwell)\r\n\ @version\ (17042018)\r\n
+comment1.params=
+comment1.target=ABMUi()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ABMUi\r\n
+comment2.params=e
+comment2.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=3
